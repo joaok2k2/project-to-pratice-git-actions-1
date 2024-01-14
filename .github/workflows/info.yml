@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get info
-        run: echo "${{ github.action_path) }}"
+        run: echo "${{ github.action_path }}"
       - name: Repository Name
         run: echo "${{ github.repository }}"
 
