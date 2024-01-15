@@ -16,6 +16,7 @@ on:
       - 'feat/**' # feat/ola/hello
       # develop
     paths-ignore:
+      - '.github/workflows/**'
       - '.github/workflows/*'
       
 jobs:

@@ -1,0 +1,2 @@
+fail with  - '.github/workflows/*'
+lets test with  - '.github/workflows/**'
