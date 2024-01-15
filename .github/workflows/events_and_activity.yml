@@ -7,7 +7,7 @@ on:
       - main
       - 'dev-*' # dev-new dev-ola
       - 'feat/**' # feat/ola/hello
-      # develop 2
+      # develop 2 2
   workflow_dispatch:
   push:
     branches:
